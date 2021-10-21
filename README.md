@@ -12,7 +12,7 @@ Feedback about the website - https://teedlar.pythonanywhere.com/home/feedback
 Python Official Site - https://www.python.org/
 To Download Python- https://www.python.org/downloads/
 
-*This is flow but may due to situation
+*This is flow may change due to situation
 
 ### Basics
 1) [Hello World](HelloWorld.ipynb)
