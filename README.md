@@ -15,8 +15,8 @@ To Download Python- https://www.python.org/downloads/
 *This is flow may change due to situation
 
 ### Basics
-1) [Hello World](Basics/HelloWorld.ipynb)
-2) [Variables](Basics/Variables.ipynb)
+1) [Hello World](https://github.com/teedlar/teePy/blob/main/Basics/Hello%20World.ipynb)
+2) [Variables](https://github.com/teedlar/teePy/blob/main/Basics/Variables.ipynb)
 3) Data Types
 4) Intro To Lists
 5) Advanced Lists
