@@ -5,15 +5,16 @@ Instagram https://www.instagram.com/pyteedlar/?utm_medium=copy_link
 
 Check this website built using python(flask) - https://teedlar.pythonanywhere.com/
 Hosted - https://www.pythonanywhere.com/
+Feedback about the website - https://teedlar.pythonanywhere.com/home/feedback
 
-[Content](Content.ipynb)
+## [Content](Content.ipynb)
 
 Python Official Site - https://www.python.org/
 To Download Python- https://www.python.org/downloads/
 
 *This is flow but may due to situation
 
-Basics
+### Basics
 1) [Hello World](HelloWorld.ipynb)
 2) [Variables](Variables.ipynb)
 3) Data Types
