@@ -18,7 +18,7 @@ To Download Python- https://www.python.org/downloads/
 1) [Hello World](https://github.com/teedlar/teePy/blob/main/Basics/Hello%20World.ipynb)
 2) [Variables](https://github.com/teedlar/teePy/blob/main/Basics/Variables.ipynb)
 3) [Numbers](https://github.com/teedlar/teePy/blob/main/Basics/Numbers.ipynb)
-4) Intro To Lists
+4) [Intro To Lists](https://github.com/teedlar/teePy/blob/main/Basics/Intro%20To%20Lists.ipynb)
 5) Advanced Lists
 6) if Loop
 7) Dictionary
